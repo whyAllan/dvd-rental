@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dvd-rental/static/css/main.f916cdf0.css",
+    "main.js": "/dvd-rental/static/js/main.4e6d4c27.js",
+    "static/js/453.8ab44547.chunk.js": "/dvd-rental/static/js/453.8ab44547.chunk.js",
+    "static/media/house.svg": "/dvd-rental/static/media/house.5b7c46ff22669d1e54752c13960ce0d5.svg",
+    "static/media/next.svg": "/dvd-rental/static/media/next.de4579e066743df087ca53df4afd6332.svg",
+    "index.html": "/dvd-rental/index.html",
+    "main.f916cdf0.css.map": "/dvd-rental/static/css/main.f916cdf0.css.map",
+    "main.4e6d4c27.js.map": "/dvd-rental/static/js/main.4e6d4c27.js.map",
+    "453.8ab44547.chunk.js.map": "/dvd-rental/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f916cdf0.css",
+    "static/js/main.4e6d4c27.js"
+  ]
+}
